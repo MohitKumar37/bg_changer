@@ -60,11 +60,11 @@ function App() {
             Lime
           </button>
           <button
-            onClick={() => setColor("olive")}
+            onClick={() => setColor("purple")}
             className="outline-none px-4 py-1 rounded-full text-white shadow-lg"
-            style={{ backgroundColor: "olive" }}
+            style={{ backgroundColor: "purple" }}
           >
-            Olive
+            Purple
           </button>
           <button
             onClick={() => setColor("teal")}
